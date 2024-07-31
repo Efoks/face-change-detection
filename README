@@ -1,0 +1,5 @@
+config.py - only used to change the directories of the data.
+    - Change this file only to include the data directory.
+
+
+change_detection.ipynb - main file for the task.
